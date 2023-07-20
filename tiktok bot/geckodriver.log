@@ -1,0 +1,507 @@
+1641897685070	geckodriver	INFO	Listening on 127.0.0.1:58149
+1641897688172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58150" "-no-remote" "-profile" "C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofileAmjnoR"
+1641897688653	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofileAmjnoR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58150/devtools/browser/26a8b101-c734-49a9-8c58-2ad46db5f4b7
+1641897691679	Marionette	INFO	Listening on port 58155
+1641897691868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25440, MediaDecoderStateMachine #1] WARNING: 22ff0082d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_3l6bc5r7%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid%20profile&prompt=consent line 1 > eval line 338 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25440, MediaDecoderStateMachine #1] WARNING: 22ff1127c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_3l6bc5r7%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid%20profile&prompt=consent line 1 > eval line 5265 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 1850 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 4894 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641897743558	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 2164 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 5817 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641897753067	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 7378 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 17 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25440, MediaDecoderStateMachine #2] WARNING: 22fecea3e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25440, MediaDecoderStateMachine #2] WARNING: 22fed5744a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_7wm2rzp3%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid%20profile&prompt=consent line 1 > eval line 5025 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25440, MediaDecoderStateMachine #2] WARNING: 22fed5744a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_7wm2rzp3%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid%20profile&prompt=consent line 1 > eval line 1838 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641898114721	Marionette	INFO	Stopped listening on port 58155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 2848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1641898137985	geckodriver	INFO	Listening on 127.0.0.1:58370
+1641898141093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58371" "-no-remote" "-profile" "C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofileCC3Dz5"
+1641898141602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofileCC3Dz5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58371/devtools/browser/1f4cbbbc-92f9-42b8-ac5c-63fa0e05feac
+1641898144889	Marionette	INFO	Listening on port 58376
+1641898145320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 4270 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 3203 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yZ/l/en_US/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKCi4/yo/l/en_US/Ny0-womFtwg.js?_nc_x=dTwFCT2F_iI&_nc_eui2=AeGEKhILAqocJU6dcgP8nF_4tTYh3bLutHi1NiHdsu60eJQBr9COFNnnXo7HjTn2mqMrQGxiAGDFBp7d2D0Ox3qa, line 160: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c6876e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c6876e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c88beba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c88beba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c88beba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c88beba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c88beba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c88beba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c88beba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c6722c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c6722c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c6722c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c6722c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c6722c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c6722c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c4a5fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c4a5f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20868, MediaDecoderStateMachine #2] WARNING: 1b3c4a5f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641898491237	Marionette	INFO	Stopped listening on port 58376
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 23916, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23916, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641898501536	geckodriver	INFO	Listening on 127.0.0.1:58597
+1641898504637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58598" "-no-remote" "-profile" "C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofileUiFPuH"
+1641898505138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofileUiFPuH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58598/devtools/browser/39e214ae-6d06-4c72-8ccc-b36d7e72c933
+1641898508225	Marionette	INFO	Listening on port 58603
+1641898508363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9e323d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9a265120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iqES4/yZ/l/en_US/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9b180660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ae6cd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ae6cd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yZ/l/en_US/o5XjgaLVgY-.js?_nc_x=CKF-Idj2XhJ, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ae6c9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ae6c9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641898593953	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc990f89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641898616874	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc990f89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc990f89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc990f89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iqES4/yZ/l/en_US/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iKCi4/yo/l/en_US/Ny0-womFtwg.js?_nc_x=dTwFCT2F_iI&_nc_eui2=AeHEQVKBE-kHrpXAcCc-OrsV23Eivgu_EN_bcSK-C78Q3wpid5mxvy4HwZ9xD-A3dlWkwXL85D1Kp9kqDuUwHXPI, line 160: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc990f89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641898755693	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc990f89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AED8r0h-AQAAznfqcXpjMEwLacf-JdLC4JH9XOLvjAb5CS7sWQJghYUn2uE_&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca979bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca979bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca979bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca979bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff522e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca979b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9d198f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff52040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web/tiktok/webapp/main/webapp-main/npm-async-eb873fff.7349eab41e38364af582.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca995af20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bcae89dd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bcae89dd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff52040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9d198f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca979b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9c112f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9c112f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9cdaed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9e3e62e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9fd40ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9e3e6c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9b177740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff52820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff52820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff52820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff52820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff52820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9904f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff52820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bc9ff52820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca1564200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca1564900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca15229e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca84e2820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca84e33c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca979b3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca84e3e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca97a14a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7628, MediaDecoderStateMachine #1] WARNING: 2bca1522820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1641899297053	Marionette	INFO	Stopped listening on port 58603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 5388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1641899301813	geckodriver	INFO	Listening on 127.0.0.1:58862
+1641899304925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58863" "-no-remote" "-profile" "C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofileXXEZ2p"
+1641899305462	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofileXXEZ2p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58863/devtools/browser/59744344-9d08-4344-8b7d-1b24124383c3
+1641899308554	Marionette	INFO	Listening on port 58868
+1641899308653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e20bbb49e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yZ/l/en_US/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2089b7740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2089b7740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2089b7740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2087f6660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e20618e9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e209a14740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e209aa24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web/tiktok/webapp/main/webapp-main/npm-async-eb873fff.7349eab41e38364af582.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2087f6ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e209a76ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e208a49040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e209a76820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e20897bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e208a49040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2089b7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2089b7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2089b7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2087f6580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e2087f6660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207bc9e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e20d68f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e208c36200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e208c36200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e208c36200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 25880, MediaDecoderStateMachine #1] WARNING: 1e207c34660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1641899857412	Marionette	INFO	Stopped listening on port 58868
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641899871841	geckodriver	INFO	Listening on 127.0.0.1:59109
+1641899874954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59110" "-no-remote" "-profile" "C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofile5MAW7t"
+1641899875515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofile5MAW7t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59110/devtools/browser/93d838ab-0d37-49e4-92e4-e649603b398f
+1641899878979	Marionette	INFO	Listening on port 59115
+1641899879159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181dbabdac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181d7f67040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181d7f67040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181d6cf62e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181dd0eb900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181d6cf39e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web/tiktok/webapp/main/webapp-main/npm-async-eb873fff.7349eab41e38364af582.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181d6cf39e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181d8d67f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181de7502e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181d8f412e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 28436, MediaDecoderStateMachine #1] WARNING: 181d7fbe660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 28436, MediaDecoderStateMachine #2] WARNING: 181d7fbe660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 28436, MediaDecoderStateMachine #2] WARNING: 181d6489e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641900176937	Marionette	INFO	Stopped listening on port 59115
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641900182973	geckodriver	INFO	Listening on 127.0.0.1:59300
+1641900186085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59301" "-no-remote" "-profile" "C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofilehO0C0S"
+1641900186571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofilehO0C0S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59301/devtools/browser/648228ea-0d16-4e17-9515-919c4b7995b0
+1641900189710	Marionette	INFO	Listening on port 59306
+1641900189801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b14ed6e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b114bf120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b12276d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b12276d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b12276d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b12276ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIBzy0h-AQAADxmFYrlLJ61X26U1rjNe2_hKLfH34U_DBZcLwyVpMWy6IPoS&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b126ca3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/acrawler/webmssdk_ov_362.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b14ecc3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b11464f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b11464040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b11464040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b114bfd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web/tiktok/webapp/main/webapp-main/npm-async-eb873fff.7349eab41e38364af582.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b114bfd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b114bfd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b114bfd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b165b59e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b114bf740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 23132, MediaDecoderStateMachine #1] WARNING: 22b165b5ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641900443051	Marionette	INFO	Stopped listening on port 59306
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1668348985852	geckodriver	INFO	Listening on 127.0.0.1:52160
+1668348988936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52161" "-no-remote" "-profile" "C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofilerBCz30"
+1668348990059	Marionette	INFO	Marionette enabled
+1668348990066	Marionette	INFO	Listening on port 52166
+WebDriver BiDi listening on ws://127.0.0.1:52161
+1668348990634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofilerBCz30\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52161/devtools/browser/b0d66647-80ec-4347-ab2d-57f7a2adedce
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.460/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AAA3SnGEAQAAbDld0A3qKw-IymgwTFoC-yMuuLFUYb1lgeViOCFli4mivkzM&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ibytedtos.com/obj/rc-web-sdk-sg/webmssdk_ex/1.0.0.60/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668349022849	Marionette	INFO	Stopped listening on port 52166
+1668349038753	geckodriver	INFO	Listening on 127.0.0.1:52280
+1669114970066	geckodriver	INFO	Listening on 127.0.0.1:59119
+1669114973129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59120" "-no-remote" "-profile" "C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofile215X8p"
+1669114974157	Marionette	INFO	Marionette enabled
+1669114974165	Marionette	INFO	Listening on port 59125
+WebDriver BiDi listening on ws://127.0.0.1:59120
+1669114975467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abbha\\AppData\\Local\\Temp\\rust_mozprofile215X8p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59120/devtools/browser/51127cc8-d005-47e7-b424-843eef994b67
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.460/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AICn_p6EAQAAtFVpomyMxGB5gBVgyCybVEtP7XjELfd6Yaf2ID5LVlqb4d8f&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ibytedtos.com/obj/rc-web-sdk-sg/webmssdk_ex/1.0.0.60/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?platform=google&client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_c9yzaih9%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid%20profile&prompt=consent line 2 > eval line 7585 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?platform=google&client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_c9yzaih9%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid%20profile&prompt=consent line 2 > eval line 410 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669115001789	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?platform=google&client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_c9yzaih9%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid+profile&prompt=consent&service=lso&o2v=2&flowName=GeneralOAuthFlow line 2 > eval line 342 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?platform=google&client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_c9yzaih9%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid+profile&prompt=consent&service=lso&o2v=2&flowName=GeneralOAuthFlow line 2 > eval line 4277 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669115015325	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?platform=google&client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_c9yzaih9%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid+profile&prompt=consent&service=lso&o2v=2&flowName=GeneralOAuthFlow line 2 > eval line 6570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?platform=google&client_id=1096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com&response_type=token&redirect_uri=https%3A%2F%2Fwww.tiktok.com%2Flogin%2F&state=%7B%22client_id%22%3A%221096011445005-sdea0nf5jvj14eia93icpttv27cidkvk.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22popup%22%2C%22callback%22%3A%22_hellojs_c9yzaih9%22%2C%22state%22%3A%22%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.tiktok.com%2Flogin%2F%22%2C%22scope%22%3A%22basic%22%7D&scope=openid+profile&prompt=consent&service=lso&o2v=2&flowName=GeneralOAuthFlow line 2 > eval line 4807 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669115033465	Marionette	INFO	Stopped listening on port 59125
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
